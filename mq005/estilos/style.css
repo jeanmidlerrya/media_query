@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+body, HTML {
+    background-color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
